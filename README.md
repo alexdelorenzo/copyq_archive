@@ -1,4 +1,4 @@
-# CopyQ Archive
+# 🖱️ CopyQ Archive
 
 A simple utility to archive CopyQ's history.
 
